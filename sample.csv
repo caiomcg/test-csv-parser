@@ -1,0 +1,28 @@
+resource,work_order_number,activity_number,city,community,address,lot_number,state,zip_code,job_type,trade,service,service_quantity,order_date,builder,company,field_manager,supervisor,subcontractor
+sts/img21.jpg,4518488,,CONCORD,VILLAGE AT SKYBRK NTH,1457 COFFEETREE DR NW,449,NC,28027,Repair,Wood,3448,1,20190906,DR Horton Charlotte,STS Floors,Ben Bailey,Pedro Brito,-- Choose Subcontractor --
+sts/img18.jpg,4527417,,INDIAN LAND,BENT CREEK CAROLINAS,4034 BRANDYWINE TERRACE,35,SC,29707,Repair,Wood,3448|3510,1|2,20190906,Toll Bros. Homes,STS Floors,Cameron Wood,Pedro Brito,-- Choose Subcontractor --
+ko/img2.jpg,4528393,,CHARLOTTE,THE RETREAT AT BALLANTYNE,11510 CLEMS BRANCH DR,12,NC,28277,Installation,Wood,3514,1,20190906,Meritage Homes,KO Flooring,Bobby Hawkins,Pedro Brito,-- Choose Subcontractor --
+sts/img19.jpg,4530793,,INDIAN LAND,BENT CREEK CAROLINAS,4034 BRANDYWINE TERRACE,35,SC,29707,Repair,Wood,5927,1,20190906,Toll Bros. Homes,STS Floors,Cameron Wood,Pedro Brito,-- Choose Subcontractor --
+sts/img20.jpg,4530945,,FORT MILL,MERRITT MEADOWS,455 TWELVE OAKS LANE,4300,SC,29708,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
+sts/img17.jpg,4531798,,FORT MILL,MCCULLOUGH SC SE,8829 GLADDEN HILL LANE,2100,SC,29715,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
+sts/img16.jpg,4532001,,HUNTERSVILLE,OLMSTEAD OVERLOOK,7015 BROOKLINE PLACE,19400,NC,28078,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Ben Bailey,Pedro Brito,-- Choose Subcontractor --
+sts/img24.jpg,4533641,,HUNTERSVILLE,BRYTON TRACE,12607 CHANTREY WAY,44,NC,28078,Repair,Wood,3448|3510,1|25,20190906,Lennar Homes,STS Floors,Rob Howard,Pedro Brito,-- Choose Subcontractor --
+sts/img34.jpg,8346378,,FORT MILL,AVONDALE 70S,9214 VECCHIO DR,1014,SC,29707,Installation,Wood,3514,1,20190906,DR Horton Charlotte,STS Floors,Mandy McCarter,Pedro Brito,-- Choose Subcontractor --
+sts/img15.jpg,8347476,,ROCK HILL,AUGUSTA PLACE AT LAUREL CREEK,136 ADELAIDE WAY,48C2,SC,29732,Repair,Wood,3448|3510,1|4,20190906,New Style Communities,STS Floors,Mathis Barry,Pedro Brito,-- Choose Subcontractor --
+sts/img26.jpg,8347926,,CHARLOTTE,CENTRAL POINT,12018 BROOKLYN AVE,77,NC,28204,Repair,Wood,3448|3510,1|4,20190906,Pulte Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img32.jpg,8348829,,MARVIN,PRESERVE AT MARVIN,1011 GOLDEN BELL DRIVE,94,NC,28173,Repair,Wood,5927,1,20190906,Toll Bros. Homes,STS Floors,Cameron Wood,Pedro Brito,-- Choose Subcontractor --
+sts/img25.jpg,8348950,,CHARLOTTE,STARMOUNT COVE,7111 THORNROSE DRIVE,1700,NC,28210,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img22.jpg,8349562,,FORT MILL,CAROLINA ORCHARD 40 EXPEDITION,2325 DELANEY DRIVE,49501,SC,29708,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
+sts/img23.jpg,8349768,,CHARLOTTE,CENTRAL POINT,13006 TRINTON AVENUE,9700,NC,28204,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img31.jpg,8349773,,FORT MILL,CAROLINA ORCHARD 54 PINNACLE,3150 BARTLETT STREET,58201,SC,29708,Repair,Wood,5927,1,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
+sts/img33.jpg,8349912,,CHARLOTTE,STARMOUNT COVE,7111 THORNROSE DRIVE,1700,NC,28210,Repair,Wood,3448,1,20190906,Pulte Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img29.jpg,8349951,,FORT MILL,WATERSIDE GLEN,290 ASCOT RUN WAY,997,SC,29715,Repair,Wood,5927,1,20190906,Lennar Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+ko/img3.jpg,8349953,,FORT MILL,WATERSIDE GLEN,288 ASCOT RUN WAY,998,SC,29715,Repair,Wood,5927,1,20190906,Lennar Homes,KO Flooring,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img28.jpg,8350006,,WESLEY CHAPEL,ELLINGTON DOWNS 70S,4017 FERNBANK LANE,54,NC,28104,Repair,Wood,3448,1,20190906,Meritage Homes,STS Floors,Bobby Hawkins,Pedro Brito,-- Choose Subcontractor --
+sts/img27.jpg,8350035,,FORT MILL,HABERSHAM 65,125 HAMPTON TRAIL DRIVE,1000,SC,29708,Repair,Wood,3448,1,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
+sts/img30.jpg,8350072,,CHARLOTTE,CENTRAL POINT 12,13014 TINTON AVENUE,9900,NC,28204,Repair,Wood,3448,1,20190906,Pulte Homes,STS Floors,Adam Mosher,Pedro Brito,-- Choose Subcontractor --
+sts/img35.jpg,8350181,,CHARLOTTE,PALISADES MONTAGE CROSSING,15122 CIMARRON HILLS LANE,141,NC,28278,Repair,Wood,3448,1,20190906,Lennar Homes,STS Floors,Mathis Barry,Pedro Brito,-- Choose Subcontractor --
+ko/img0.jpg,9478677-3240,3240,ROCKHILL,AUGUSTA PLACE AT LAUREL CREEK,125 ADELAIDE WAY,52C,SC,29732,Installation,Wood,3451,1010,20190906,New Style Communities,KO Flooring,Mathis Barry,Pedro Brito,-- Choose Subcontractor --
+sts/img0.jpg,9485463-3240,3240,MOORESIVELLE,ATWATER LAND RSRV 50,153 LONGLEAF DR,229,NC,28117,Installation,Wood,3455,1182,20190906,DR Horton Charlotte,STS Floors,Abraham Mitch,Pedro Brito,-- Choose Subcontractor --
+sts/img8.jpg,9498195-3240,3240,LANCASTER,BENT CREEK,1057 CHIPPENHAM AVENUE,2,SC,29720,Installation,Wood,3451,535,20190906,JONES HOMES USA,STS Floors,Cameron Wood,Pedro Brito,-- Choose Subcontractor --
+sts/img4.jpg,9503470-3240,3240,FORT MILL,MCCULLOUGH SC SF,8908 GLADDEN HILL LN,4500,SC,29715,Installation,Wood,3455,1071,20190906,Pulte Homes,STS Floors,Stephan Gray,Pedro Brito,-- Choose Subcontractor --
